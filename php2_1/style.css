@@ -1,0 +1,13 @@
+table, td, tr{
+    border: 1px solid;
+}
+
+table{
+    width:200px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td{
+    width: 50%;
+}
